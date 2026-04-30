@@ -1,0 +1,10 @@
+name: rivals
+description: $description
+prefix: Rivals
+version: '${version}'
+
+main: org.silveros.rivals.Rivals
+api-version: '26.1.2'
+load: STARTUP
+
+authors: [ Silveros ]
